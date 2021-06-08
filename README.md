@@ -2,7 +2,7 @@
 🌱 I’m currently learning Android Development and Back-End Development
 <br>
 <br>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/arasopraza/" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&link=https://www.linkedin.com/in/arasopraza/&logo=linkedin&logoColor=white&" />
 <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://arasopraza.medium.com/" />
 <br>
 <br>
