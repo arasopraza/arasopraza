@@ -2,6 +2,11 @@
 🌱 I’m currently learning Android Development and Back-End Development
 <br>
 <br>
+📫 Reach me on :
+<br>
+<a href="https://www.linkedin.com/in/arasopraza/">LinkedIn</a>
+<br>
+<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arasopraza&show_icons=true)
 ](https://github.com/anuraghazra/github-readme-stats)
 
