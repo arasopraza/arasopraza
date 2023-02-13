@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Back-End Development
+🌱 I’m currently learning Back-End Development and Freelance as Android/Back-End Developer
 <br>
 <br>
 My Blog:
