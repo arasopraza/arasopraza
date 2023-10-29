@@ -7,6 +7,10 @@ My Blog:
 <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://arasopraza.medium.com/" />
 <br>
 <br>
+My X/Twitter:
+https://twitter.com/arsyopraza
+<br>
+<br>
 📫 Reach me on :
 <br>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&link=https://www.linkedin.com/in/arasopraza/&logo=linkedin&logoColor=white&" />
