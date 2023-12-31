@@ -2,18 +2,9 @@
 🌱 I’m currently learning Back-End Development and Freelance as Android/Back-End Developer
 <br>
 <br>
-My Blog:
-<br>
-<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://arasopraza.medium.com/" />
-<br>
-<br>
-My X/Twitter:
-https://twitter.com/arsyopraza
-<br>
-<br>
 📫 Reach me on :
 <br>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&link=https://www.linkedin.com/in/arasopraza/&logo=linkedin&logoColor=white&" />
+<a href="https://arsyopraza.carrd.co">My social media</a>
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arasopraza&show_icons=true)
 ](https://github.com/anuraghazra/github-readme-stats)
